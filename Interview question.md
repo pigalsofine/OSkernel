@@ -97,3 +97,9 @@
 
 >> 从/boot/所在分区读取linux内核映像，然后把内核映像加载到内存中并把控制权交给Linux 内核
 >> 开始start_kernel
+
+
+# 数据库
+
+- 索引
+> https://download.csdn.net/download/luochao_cs/2660440
